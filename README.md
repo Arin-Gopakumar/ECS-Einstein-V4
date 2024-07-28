@@ -16,7 +16,7 @@ This project utilizes a mechanical robot to perform object detection and classif
 
 Install the required Python libraries:
 - bash
-- pip install rpyc opencv-python pygame numpy ftd2xx
+- pip install rpyc, opencv-python, pygame, numpy, and ftd2xx
 - cd kepler-ai
 - ./rpyc_server.sh
 - inference server start
