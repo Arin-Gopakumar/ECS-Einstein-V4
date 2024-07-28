@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes a LEGO EV3 Mindstorms robot to perform object detection and classification using a deep learning model from Roboflow. The robot can be controlled via a PS4 controller, and the system provides real-time video capture and processing.
+This project utilizes a mechanical robot to perform object detection and classification using a deep-learning model from Roboflow. The robot can be controlled via a PS4 controller, and the system provides real-time video capture and processing.
 
 ## Features
 
