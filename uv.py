@@ -116,7 +116,7 @@ client = InferenceHTTPClient(
 
 # client2 = InferenceHTTPClient(
 #     api_url="http://localhost:9001",
-#     api_key = 'dkDq8orqir5g6kAV1Lk5'
+#     api_key = 'enter key'
 # )
 client.configure(config)
 client.select_model(model_id)
